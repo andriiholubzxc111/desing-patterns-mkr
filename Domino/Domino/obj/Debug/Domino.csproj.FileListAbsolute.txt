@@ -1,0 +1,2 @@
+C:\Users\andre\source\repos\Domino\Domino\obj\Debug\Domino.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Domino\Domino\obj\Debug\Domino.csproj.CoreCompileInputs.cache
